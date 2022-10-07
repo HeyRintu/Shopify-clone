@@ -11,7 +11,7 @@
 ## **Live Demo**  💻 
 
 
->### _[**Live Link**](https://thunderous-hummingbird-634b14.netlify.app/)_
+>### _[**Live Link**](https://regal-ganache-6fd30d.netlify.app/)_
 <br>
 
 ## **Preview**🔎
